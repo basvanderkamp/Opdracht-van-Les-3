@@ -185,7 +185,7 @@ p{
     min-width: 60%;
     height: auto;
     padding: 20px;
-    box-shadow: #F3F6F9;
+    box-shadow:4px 4px 4px gray;
 }
 
 .text-img{
